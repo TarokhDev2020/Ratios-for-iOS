@@ -2,7 +2,7 @@
 Calculate your coffee/water ratio and set a timer!
 
 ## Installation ##
-* Git and clone *
+* Git and clone <br/>
 `$ cd /Users/user/my_project
  $ git clone https://github.com/TarokhDev2020/Ratios-for-iOS
 `
